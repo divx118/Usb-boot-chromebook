@@ -1,0 +1,2 @@
+# Usb-boot-chromebook
+seabios
